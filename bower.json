@@ -1,0 +1,20 @@
+{
+  "name": "thug-grids",
+  "version": "1.0.0",
+  "homepage": "https://github.com/AllThingsSmitty/thug-grids",
+  "authors": [
+    "Matt Smith"
+  ],
+  "description": "A fully fucking responsive, mobile-first, infinitely nestable, reversible, reorderable, simple as shit to understand, human-friendly, robust grid system, motherfucker.",
+  "main": "thug-grids.scss",
+  "keywords": [
+    "allthingssmitty",
+    "thug",
+    "grids",
+    "css",
+    "layout",
+    "grid",
+    "system"
+  ],
+  "license": "Apache"
+}
