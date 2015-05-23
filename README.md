@@ -18,7 +18,7 @@ See [Responsive grid systems; a solution?](http://csswizardry.com/2013/02/respon
 
 ## Props
 
-* Mad props go out to Harry Roberts and his [thug-grids](https://github.com/csswizardry/csswizardry-grids) project which is this "loosely" based on :wink: cuz he's a motherfucking CSS genius yo.
+* Mad props go out to Harry Roberts and his [csswizardry-grids](https://github.com/csswizardry/csswizardry-grids) project which is this "loosely" based on :wink: cuz he's a motherfucking CSS genius yo.
 
 ## Setup
 
